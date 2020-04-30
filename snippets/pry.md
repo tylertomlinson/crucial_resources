@@ -1,6 +1,7 @@
 ##### Creates snippet that will run using `pry`
+<em><sub>nested in ```'.ruby.source':```</sub></em>
+
 ```ruby
-'.ruby.source':
   'pry':
     'prefix': 'pry'
     'body': 'require "pry"; binding.pry'
