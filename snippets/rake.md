@@ -1,4 +1,5 @@
 ##### Creates snippet that will setup a rake file by running `setuprake`
+```ruby
 'Rake':
   'prefix': 'setuprake'
   'body': """
@@ -10,3 +11,4 @@
    task.pattern = "test/*_test.rb"
   end
   """
+  ```
