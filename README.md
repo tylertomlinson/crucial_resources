@@ -7,7 +7,7 @@ There is a lot more that can be added here and there so feel free to contribute
 
 Will be mentioned on README
 
-Would be awesome if we can get this super robust and have the ultimate complied "cheat sheet"
+Would be awesome if we can get this super robust and have the ultimate compiled "cheat sheet"
 
  ### Contributing
 - Fork repo (https://github.com/tylertomlinson/crucial_code_resources)
