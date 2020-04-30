@@ -1,7 +1,7 @@
 ##### Creates snippet that will setup a rake file by running `setuprake`
 <em><sub>nested within ```'.ruby.source':```</sub></em>
 
-```ruby
+```coffeescript
 'Rake':
   'prefix': 'setuprake'
   'body': """

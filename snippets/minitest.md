@@ -1,7 +1,7 @@
 ##### Creates snippet that will setup a test file by running `setuptest`
 <em><sub>nested within ```'.ruby.source':```</sub></em>
 
-```ruby
+```coffeescript
 'Test Setup':
   'prefix': 'setuptest'
   'body': """
