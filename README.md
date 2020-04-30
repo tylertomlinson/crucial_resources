@@ -1,13 +1,8 @@
-# Helpful Resources
-Decided to create a repo of markdown files I have on my local
+Decided to create a repo of folders and files I have on my local so anyone can use them
 
 Used for for quick referencing
 
-There is a lot more that can be added here and there so feel free to contribute
-
-Will be mentioned on README
-
-Would be awesome if we can get this super robust and have the ultimate compiled "cheat sheet"
+There is a lot more that can be added here so feel free to contribute!
 
  ### Contributing
 - Fork repo (https://github.com/tylertomlinson/crucial_code_resources)
