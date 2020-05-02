@@ -26,7 +26,9 @@ git push heroku testbranch:<branchname>
 ##### Migrate DB to Heroku
 ```sh
 heroku run rake db:migrate
+```
 
 ##### Restart Heroku Database
 ```sh
 heroku restart && heroku pg:reset DATABASE --confirm APP-NAME && heroku run rake db:migrate
+```
