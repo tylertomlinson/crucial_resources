@@ -86,4 +86,4 @@ I will do my best to maintain this repository but if you spot bad linting or a r
 - Create your feature branch (`git checkout -b feature/fooBar`)
 - Commit your changes (`git commit -m 'Add some fooBar'`)
 - Push to the branch (`git push origin feature/fooBar`)
-- Create a new [pull request](https://github.com/aikorea/awesome-rl/pulls)
+- Create a new [pull request](https://github.com/tylertomlinson/crucial_resources/pulls)
