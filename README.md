@@ -6,7 +6,7 @@
 <details>
 <summary>Click to expand</summary>
 
-- [What is this?](#what-is-this?)
+- [What is this?](#what-is-this)
 - [CLI](#cli)
 - [GIT](#git)
 - [HTML-CSS](#html-css)
