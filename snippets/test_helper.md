@@ -1,6 +1,9 @@
 ##### Creates snippet that will setup a `test_helper` file by running `test_helper`
+<em><sub>nested within ```'.ruby.source':```</sub></em>
+
 <em><sub>SimpleCov included to see coverage</sub></em>
-```ruby
+
+```coffeescript
 'SimpleCov':
   'prefix': 'test_helper'
   'body': """

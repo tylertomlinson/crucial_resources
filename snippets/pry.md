@@ -1,6 +1,7 @@
 ##### Creates snippet that will run using `pry`
-```ruby
-'.ruby.source':
+<em><sub>nested in ```'.ruby.source':```</sub></em>
+
+```coffeescript
   'pry':
     'prefix': 'pry'
     'body': 'require "pry"; binding.pry'

@@ -57,5 +57,5 @@ or
 ```
 
 #### Very useful add-ons:
-[Pry ByeBug](https://github.com/deivid-rodriguez/pry-byebug)
-[Pry Nav](https://github.com/nixme/pry-nav)
+- [Pry ByeBug](https://github.com/deivid-rodriguez/pry-byebug)
+- [Pry Nav](https://github.com/nixme/pry-nav)
