@@ -158,7 +158,7 @@ alias server="bundle exec rails s"
 # heroku #
 # ------ #
 
-alias setupheroku= "heroku run rake db:setup"        # migrate & seed 
+alias setupheroku="heroku run rake db:setup"        # migrate & seed 
 
 # export CXX=clang++
 # export GYPFLAGS=-Dmac_deployment_target=10.15
