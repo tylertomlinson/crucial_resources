@@ -145,14 +145,14 @@ function gcm() {
 # rails #
 # ----- #
 
-alias bi= "bundle install"
-alias test= "bundle exec rspec"
-alias be= "bundle exec"
-alias seed= "bundle exec rake db:reset"
-alias drop= "bundle exec rake db:drop"
-alias migrate= "bundle exec rake db:migrate"
-alias load = "bundle exec rake db:schema:load"
-alias server= "bundle exec rails s"
+alias bi="bundle install"
+alias test="bundle exec rspec"
+alias be="bundle exec"
+alias seed="bundle exec rake db:reset"
+alias drop="bundle exec rake db:drop"
+alias migrate="bundle exec rake db:migrate"
+alias load ="bundle exec rake db:schema:load"
+alias server="bundle exec rails s"
 
 # ------ #
 # heroku #
