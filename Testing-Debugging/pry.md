@@ -3,6 +3,10 @@
 ```sh
 wherami
 ```
+or 
+```sh
+@
+```
 ##### Print the context 20 lines where pry is stopped
 ```sh
 wherami 20
