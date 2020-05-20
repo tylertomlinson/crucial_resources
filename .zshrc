@@ -115,7 +115,7 @@ alias cl="clear"
 # --- #
 # git #
 # --- #
-
+alias gcm='git commit -m'
 alias gd="git diff"
 alias gs="git status"
 alias ga="git add"
