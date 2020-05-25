@@ -8,6 +8,7 @@
 
 - [What is this?](#what-is-this?)
 - [CLI](#cli)
+- [ATOM](#atom)
 - [GIT](#git)
 - [HTML-CSS](#html-css)
 - [RAILS](#rails)
@@ -21,6 +22,9 @@
 A growing collection of resources focusing on Ruby on Rails and aspects thereof split into various categories(folders)
 
 I will do my best to maintain this repository but if you spot bad linting or a resource which isn't complete/listed, please, feel free to make a pull request.
+
+## Atom
+[**Shortcuts**](https://github.com/tylertomlinson/crucial_resources/blob/master/Atom/atom_shortcuts.md)
 
 ## CLI
 [**Files**](https://github.com/tylertomlinson/crucial_resources/tree/master/CLI)
