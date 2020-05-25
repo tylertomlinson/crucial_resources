@@ -18,8 +18,6 @@ rbenv global 2.2.1
 ```sh
 rbenv shell 2.2.1
 ```
-
-
 #### List all available versions
 ```sh
 rbenv install -l
