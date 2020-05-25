@@ -84,6 +84,7 @@ I will do my best to maintain this repository but if you spot bad linting or a r
 
 ## Testing-Debugging
 - [**Pry**](https://github.com/tylertomlinson/crucial_resources/blob/master/Testing-Debugging/pry.md)
+- [**Capybara**](https://github.com/tylertomlinson/crucial_resources/blob/master/Testing-Debugging/capybara.md)
 
 ## Contributing
 - Fork repo (https://github.com/tylertomlinson/crucial_code_resources)
