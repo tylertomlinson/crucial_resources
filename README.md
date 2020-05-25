@@ -27,11 +27,11 @@ I will do my best to maintain this repository but if you spot bad linting or a r
 [**Shortcuts**](https://github.com/tylertomlinson/crucial_resources/blob/master/Atom/atom_shortcuts.md)
 
 ## CLI
-[**Files**](https://github.com/tylertomlinson/crucial_resources/tree/master/CLI/cli_commands.md)
+[**Source**](https://github.com/tylertomlinson/crucial_resources/tree/master/CLI/cli_commands.md)
 * Shortcuts and commands that will help navigate and streamline working on the command line
 
 ## GIT
-[**Files**](https://github.com/tylertomlinson/crucial_resources/blob/master/GIT/git_commands.md)
+[**Source**](https://github.com/tylertomlinson/crucial_resources/blob/master/GIT/git_commands.md)
 * Shortcuts and commands that will help prevent the dreaded git fire
 * Including all commands for:
   - configuration
