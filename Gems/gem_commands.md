@@ -2,7 +2,7 @@
 ```sh
 gem --help
 ```
-##### List gems
+#### List gems
 ```sh
 gem list
 ```
@@ -22,7 +22,7 @@ bundle install
 ```sh
 bundle install — without production
 ```
-#### update all your gem dependencies to their latest versions.
+#### Update all your gem dependencies to their latest versions.
 ```sh
 bundle update
 ```
