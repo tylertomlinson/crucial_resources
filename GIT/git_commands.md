@@ -328,8 +328,8 @@ $ git rebase --continue
 ### Undo
 
 <em><sub> **CAUTION! Changing history can have nasty side effects. If you
-  need to change commits that exist on GitHub (the remote),
-  proceed with caution.**</sub></em>
+need to change commits that exist on GitHub (the remote),
+proceed with caution.**</sub></em>
 
 ##### Discard all local changes in your working directory
 ```sh
