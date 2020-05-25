@@ -19,9 +19,9 @@
 </details>
 
 ## What is this?
-A growing collection of resources focusing on Ruby on Rails and aspects thereof split into various categories(folders)
+A growing collection of resources focusing on Ruby on Rails and aspects thereof split into various categories
 
-I will do my best to maintain this repository but if you spot bad linting or a resource which isn't complete/listed, please, feel free to make a pull request.
+I will do my best to maintain this repository but if you spot bad linting or a resource which isn't complete/listed, please, feel free to contribute.
 
 ## Atom
 [**Shortcuts**](https://github.com/tylertomlinson/crucial_resources/blob/master/Atom/atom_shortcuts.md)
