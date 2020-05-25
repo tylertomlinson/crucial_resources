@@ -69,12 +69,12 @@ I will do my best to maintain this repository but if you spot bad linting or a r
 - [**String Methods**](https://github.com/tylertomlinson/crucial_resources/blob/master/Ruby/string_methods.md)
 
 ## Snippets
-- [**Setting up Snippets**](https://github.com/tylertomlinson/crucial_resources/blob/master/Snippets/setup.md)
-- [**Pry**](https://github.com/tylertomlinson/crucial_resources/blob/master/Snippets/pry.md)
-- [**Rake**](https://github.com/tylertomlinson/crucial_resources/blob/master/Snippets/rake.md)
-- [**Minitest**](https://github.com/tylertomlinson/crucial_resources/blob/master/Snippets/minitest.md)
-- [**Test Helper(SimpleCov)**](https://github.com/tylertomlinson/crucial_resources/blob/master/Snippets/test_helper.md)
-- [**Index View(Rails)**](https://github.com/tylertomlinson/crucial_resources/blob/master/Snippets/index_view.md)
+- [**Setting up Snippets**](https://github.com/tylertomlinson/crucial_resources/blob/master/snippets/setup.md)
+- [**Pry**](https://github.com/tylertomlinson/crucial_resources/blob/master/snippets/pry.md)
+- [**Rake**](https://github.com/tylertomlinson/crucial_resources/blob/master/snippets/rake.md)
+- [**Minitest**](https://github.com/tylertomlinson/crucial_resources/blob/master/snippets/minitest.md)
+- [**Test Helper(SimpleCov)**](https://github.com/tylertomlinson/crucial_resources/blob/master/snippets/test_helper.md)
+- [**Index View(Rails)**](https://github.com/tylertomlinson/crucial_resources/blob/master/snippets/index_view.md)
 
 ## SQL
 - [**Overview**](https://github.com/tylertomlinson/crucial_resources/blob/master/SQL/sql.md)
