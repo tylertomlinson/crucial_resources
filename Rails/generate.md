@@ -9,7 +9,7 @@ All of the Rails generators are entered as commands into the terminal and will f
 ```sh
 rails g <name of generator> <options>
 ```
-##### Supported Data types:
+##### Supported Data types for migrations:
 ```sh
 :binary
 :boolean
@@ -24,7 +24,10 @@ rails g <name of generator> <options>
 :time
 :timestamp
 ```
-
+#### Generate a new Rails app w/ Postgres support
+```sh
+ rails new my_app --database=postgresql
+```
 #### Creating a Model (name it something singular)
 ```sh
 rails g model Mod name:string start_date:string
