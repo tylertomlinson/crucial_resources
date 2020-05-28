@@ -5,7 +5,7 @@ where PLAYLIST IS NEW
 ------------------------------------------
 SPEC *****************
 /spec/models/playlist_spec.rb
-    it { should have_many :playlist_songs}
+        it { should have_many :playlist_songs}
 	it { should have_many(:songs).through(:playlist_songs)}
 /spec/models/song_spec.rb
 	it { should have_many :playlist_songs}
