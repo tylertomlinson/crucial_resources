@@ -7,9 +7,11 @@ SPEC *****************
 /spec/models/playlist_spec.rb
         it { should have_many :playlist_songs}
 	it { should have_many(:songs).through(:playlist_songs)}
+	
 /spec/models/song_spec.rb
 	it { should have_many :playlist_songs}
 	it { should have_many(:playlists).through(:playlist_songs)}
+	
 /spec/models/playlist_songs_spec.rb
 	it {should belong_to :playlist}
 	it {should belong_to :song}
@@ -18,9 +20,11 @@ MODELS ****************
 /app/models/playlist.rb
 	has_many :playlist_songs
 	has_many :songs, through: :playlist_songs
+	
 /app/models/song.rb
 	has_many :playlist_songs
 	has_many :playlists, through: :playlist_songs
+	
 *create*
  /app/models/playlist_song.rb
 	belongs_to: playlist
@@ -39,11 +43,13 @@ One Artist - Many Songs
 SPEC *******************
 spec/models/artist_spec.rb
         it { should have_many :songs }
+	
 spec/models/song_spec.rb
         it { should belong_to :artist }
 MODEL ******************
 app/models/artist.rb 
 	has_many :songs
+	
 app/models/song.rb
 	belongs_to :artist
 MIGRATION **************
