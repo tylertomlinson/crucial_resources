@@ -38,9 +38,9 @@ One Artist - Many Songs
 (Need shoulda-matchers)
 SPEC *******************
 spec/models/artist_spec.rb
-	 it { should have_many :songs }
+        it { should have_many :songs }
 spec/models/song_spec.rb
- it { should belong_to :artist }
+        it { should belong_to :artist }
 MODEL ******************
 app/models/artist.rb 
 	has_many :songs
