@@ -97,8 +97,9 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-# alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+alias zshconfig="code ~/.zshrc"
 
 # --------- #
 # directory #
@@ -153,6 +154,8 @@ alias drop="bundle exec rake db:drop"
 alias migrate="bundle exec rake db:migrate"
 alias load ="bundle exec rake db:schema:load"
 alias server="bundle exec rails s"
+
+alias rrc="bundle exec rake routes -c"
 
 # ------ #
 # heroku #
