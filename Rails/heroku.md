@@ -32,3 +32,11 @@ $ heroku run rake db:migrate
 ```sh
 $ heroku restart && heroku pg:reset DATABASE --confirm APP-NAME && heroku run rake db:migrate
 ```
+
+##### Show logs of Heroku app 
+
+```sh 
+$ heroku logs
+or flag with -t to show tails
+$ heroku logs -t
+```
