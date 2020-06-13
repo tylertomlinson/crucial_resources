@@ -1,13 +1,13 @@
 ### Inventory of everything Rails g can do.
 ```sh
-rails g -h
+$ rails g -h
 ```
 #### g and generate are interchangble
 
 All of the Rails generators are entered as commands into the terminal and will follow this syntax:
 
 ```sh
-rails g <name of generator> <options>
+$ rails g <name of generator> <options>
 ```
 ##### Supported Data types for migrations:
 ```sh
@@ -26,11 +26,11 @@ rails g <name of generator> <options>
 ```
 #### Generate a new Rails app w/ Postgres support
 ```sh
- rails new my_app --database=postgresql
+$ rails new my_app --database=postgresql
 ```
 #### Creating a Model (name it something singular)
 ```sh
-rails g model Mod name:string start_date:string
+$ rails g model Mod name:string start_date:string
 # includes the attributes: name and start date
 ```
 ##### Will create the following files:
@@ -55,7 +55,7 @@ end
 ```
 #### Add Column to Existing Model
 ```sh
-rails generate migration AddFieldToMods classroom:string
+$ rails generate migration AddFieldToMods classroom:string
 ```
 ##### Migration file created:
 ```ruby
@@ -78,12 +78,12 @@ rename_table
 ```
 ##### Creating a Standalone Migration
 ```sh
-rails g migration AddFieldToMods
+$ rails g migration AddFieldToMods
 ```
 #### Creating a Controller
 <em><sub>notice the plurization</sub></em>
 ```sh
-rails g controller Mods show: index: create:
+$ rails g controller Mods show: index: create:
 ```
 ##### Will create the following files:
 ```
