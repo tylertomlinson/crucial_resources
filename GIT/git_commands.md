@@ -37,7 +37,7 @@ $ git config --global core.editor vi
 
 ##### Turn an existing directory into a git repository:
 ```sh
-git init
+$ git init
 ```
 ##### Create a new local repository in a specific directory
 ```sh
@@ -45,7 +45,7 @@ $ git init <directory>
 ```
 ##### Clone (download) a repository that already exists on GitHub, including all of the files, branches, and commits:
 ```sh
-git clone [url]
+$ git clone [url]
 ```
 
 
@@ -106,7 +106,7 @@ $ git commit --amend --date="date"
 ```
 ##### Show list of all saved stashes
 ```sh
-git stash list
+$ git stash list
 ```
 ##### Move uncommitted changes from current branch to some other branch<br>
 ```sh
@@ -265,7 +265,7 @@ $ git fetch <remote>
 ```
 ##### Updates your current local working branch with all new commits from the corresponding remote branch on GitHub:
 ```sh
-git pull
+$ git pull
 ```
 <sub><em>`git pull` is a combination of `git fetch` and `git merge`</sub></em>
 ##### Download changes and directly merge/integrate into HEAD
@@ -307,7 +307,7 @@ git branch --merged master
 ```
 ##### Remove branches that have already been merged with master
 ```sh
-git branch --merged master | grep -v '^\*' | xargs -n 1 git branch -d
+$ git branch --merged master | grep -v '^\*' | xargs -n 1 git branch -d
 ```
 ##### Rebase your current HEAD onto &lt;branch&gt;<br>
 <em><sub>Don't rebase published commit!</sub></em>
