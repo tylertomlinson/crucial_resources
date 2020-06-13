@@ -1,14 +1,14 @@
 #### Instal rbenv
 ```sh
-brew install rbenv
+$ brew install rbenv
 ```
 #### Completely uninstall rbenv
 ```sh
-brew uninstall rbenv
+$ brew uninstall rbenv
 ```
 #### Sets a local application-specific Ruby version
 ```sh
- rbenv local 2.2.2
+$ rbenv local 2.2.2
 ```
 #### Sets the global version of Ruby to be used in all shells
 ```sh
@@ -20,29 +20,29 @@ rbenv shell 2.2.1
 ```
 #### List all available versions
 ```sh
-rbenv install -l
+$ rbenv install -l
 ```
 #### Install Ruby x.x.x
 ```sh
-rbenv install x.x.x
+$ rbenv install x.x.x
 ```
 #### Uninstall Ruby x.x.x
 ```sh
-rbenv uninstall x.x.x
+$ rbenv uninstall x.x.x
 ```
 #### See installed versions
 ```sh
-rbenv versions
+$ rbenv versions
 ```
 #### See current version
 ```sh
-rbenv version
+$ rbenv version
 ```
 #### Display path to executable
 ```sh
-rbenv which <NAME>
+$ rbenv which <NAME>
 ```
 #### Re-write binstubs
 ```sh
-rbenv rehash
+$ rbenv rehash
 ````
