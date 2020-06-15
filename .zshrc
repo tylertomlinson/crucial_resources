@@ -105,11 +105,12 @@ alias zshconfig="code ~/.zshrc"
 # directory #
 # --------- #
 
-alias cdt="cd ~/Turing"
-alias cdtp="cd ~/Turing/2module/projects/"
-alias cdtl="cd ~/Turing/2module/lessons/"
-alias cdtc="cd ~/Turing/2module/challenges/"
-alias cdts="cd ~/Turing/2module/sandbox/"
+alias cdt="cd ~/turing"
+alias cdtp="cd ~/turing/3module/projects/"
+alias cdtl="cd ~/turing/3module/lessons/"
+alias cdtc="cd ~/turing/3module/challenges/"
+alias cdts="cd ~/turing/3module/sandbox/"
+alias cdti="cd ~/turing/3module/intermission/"
 alias ..="cd .."
 alias cl="clear"
 
@@ -146,6 +147,8 @@ function gcm() {
 # rails #
 # ----- #
 
+alias server="bundle exec rails s"
+alias rrc="bundle exec rake routes -c"
 alias bi="bundle install"
 alias test="bundle exec rspec"
 alias be="bundle exec"
@@ -153,9 +156,6 @@ alias seed="bundle exec rake db:reset"
 alias drop="bundle exec rake db:drop"
 alias migrate="bundle exec rake db:migrate"
 alias load ="bundle exec rake db:schema:load"
-alias server="bundle exec rails s"
-
-alias rrc="bundle exec rake routes -c"
 
 # ------ #
 # heroku #
