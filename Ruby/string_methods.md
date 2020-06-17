@@ -6,6 +6,7 @@
 ##### Checking if string is empty
 ```ruby
 "Turing".size == 0
+#true
 ```
 ```ruby
 "".empty?
@@ -48,7 +49,7 @@
 ```
 ##### Transform string to symbol
 ```ruby
-"turing".to_sym or "test".intern
+"turing".to_sym or "turing".intern
 #:turing
 ```
 ##### Transform symbol to string
