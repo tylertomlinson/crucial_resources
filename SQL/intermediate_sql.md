@@ -1,4 +1,4 @@
-## Intermediate SQL Workshop
+## SQL 
 
 
 * Run `psql`
@@ -130,7 +130,7 @@ VALUES (1, 1, 60),
        (20, 3, 98);
 ```
 
-### Practice!!
+### Using the CLI
 * List all the students and their classes
 
 ```sql
