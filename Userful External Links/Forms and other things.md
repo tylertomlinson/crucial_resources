@@ -1,10 +1,14 @@
-File Uploads
+#### File Uploads
 
 https://github.com/bratta/file-upload-demo
 
 https://phase2online.com/blog/2018/10/03/easily-upload-files-with-active-storage-in-rails-5-2/
 
-Styling
+https://github.com/carrierwaveuploader/carrierwave
+
+https://github.com/janko-m/shrine
+
+#### Styling
 
 https://medium.com/rubyinside/a-modern-web-application-with-rails-da3deb48014c
 
@@ -12,39 +16,45 @@ https://medium.com/deemaze-software/ruby-on-rails-tools-and-tips-part-deux-7fa45
 
 https://medium.com/deemaze-software/ruby-on-rails-tools-and-tips-part-1-f740c0627bac
 
-Bootstrap
+#### Bootstrap
 
 https://github.com/twbs/bootstrap-rubygem
 
-Autoprefixer
+#### Autoprefixer
 
 https://github.com/ai/autoprefixer-rails
 
-Forms
+#### Forms
 
-Formtastic
+### Formtastic
 
 https://github.com/justinfrench/formtastic
 
-SimpleForm
+### SimpleForm
 
 https://github.com/plataformatec/simple_form
 
-Cocoon (Nested Forms)
+### Cocoon (Nested Forms)
 
 https://github.com/nathanvda/cocoon
 
-Nested Forms
+### Nested Forms
 
 https://stevepolito.design/blog/create-a-nested-form-in-rails-from-scratch/
 
-Dynamic forms
+### Dynamic forms
 
 https://www.youtube.com/watch?v=j1zZ4Lgzf9s
 
-AJAX forms http://roseweixel.github.io/blog/2015/07/05/integrating-ajax-and-rails-a-simple-todo-list-app/
+Dynamic dropdown https://stackoverflow.com/questions/48462992/dynamic-select-dropdown-rails-5-ajax
 
-Stimulusjs https://github.com/driftingruby/186-nested-forms-from-scratch-with-stimulusjs
+### AJAX forms
+
+http://roseweixel.github.io/blog/2015/07/05/integrating-ajax-and-rails-a-simple-todo-list-app/
+
+### Stimulusjs
+
+https://github.com/driftingruby/186-nested-forms-from-scratch-with-stimulusjs
 
 https://github.com/driftingruby/186-nested-forms-from-scratch-with-stimulusjs/blob/master/app/views/todo_lists/_task_fields.html.erb
 
@@ -52,13 +62,13 @@ Hides fields and such from forms based on variables… e.g. countries and states
 
 Rails 5.1's form_with vs. form_tag vs. form_for https://m.patrikonrails.com/rails-5-1s-form-with-vs-old-form-helpers-3a5f72a8c78a
 
-Dynamic dropdown https://stackoverflow.com/questions/48462992/dynamic-select-dropdown-rails-5-ajax
-
 https://stackoverflow.com/questions/38708428/rails4-dynamic-select-dropdown
 
-Multi Step Forms https://www.codewithjason.com/rails-multi-step-forms/#comment-8195
+### Multi Step Forms
 
-DatePicker 🤯 This has got me stumped!
+https://www.codewithjason.com/rails-multi-step-forms/#comment-8195
+
+#### DatePickers
 
 https://flatpickr.js.org/examples/
 
@@ -84,41 +94,35 @@ https://www.youtube.com/watch?reload=9&v=rD62X4aprIQ&t=0s
 
 Flat picker https://www.youtube.com/watch?v=Hz8d6zPDSrk
 
-Address Formatting
+#### Address Formatting
 
 https://addressfinder.com.au
 
-Email!
+#### Email!
 
 https://launchschool.com/blog/handling-emails-in-rails
 
-Pagination
+#### Pagination
 
-WillPaginate
+### WillPaginate
 
 https://github.com/mislav/will_paginate
 
-Kaminari
+### Kaminari
 
 https://github.com/kaminari/kaminari
 
-Location
+#### Location
 
 https://github.com/alexreisner/geocoder
 
-Auditing/versioning
+#### Auditing/versioning
 
 https://github.com/airblade/paper_trail
 
 https://github.com/collectiveidea/audited
 
-Files
-
-https://github.com/carrierwaveuploader/carrierwave
-
-https://github.com/janko-m/shrine
-
-API Design
+#### API Design
 
 https://medium.com/@billy.sf.cheng/a-rails-6-application-part-1-api-1ee5ccf7ed01
 
