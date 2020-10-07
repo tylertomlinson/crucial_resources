@@ -88,7 +88,7 @@ I will do my best to maintain this repository but if you spot bad linting or a r
 - [**Shoulda Matchers**](https://github.com/tylertomlinson/crucial_resources/blob/master/Testing-Debugging/shoulda_matchers.md)
 
 ## Contributing
-- Fork repo (https://github.com/tylertomlinson/crucial_code_resources)
+- Fork repo (https://github.com/tylertomlinson/crucial_resources)
 - Create your feature branch (`git checkout -b feature/fooBar`)
 - Commit your changes (`git commit -m 'Add some fooBar'`)
 - Push to the branch (`git push origin feature/fooBar`)
