@@ -57,7 +57,7 @@ array[1..-3]
 ##### appending element
 
 ```ruby
-Shovel Opperator
+Shovel Operator
 array= ['T', 'U', 'R', 'I', 'N', 'G']
 	array << 'S'
 puts array
