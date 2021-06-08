@@ -2,7 +2,7 @@
 
 #### About
 
-*ActiveRecord is a part of Ruby Rails' MVC pattern that allows us to circumvent the need
+**ActiveRecord is a part of Ruby Rails' MVC pattern that allows us to circumvent the need
 for SQL and run database commands from within your app. Active Record makes it easy to create and manipulate objects whose data is stored in a database.
 
 #### Types
