@@ -14,7 +14,7 @@
     'prefix': 'have_many'
     'body': 'it { should have_many($1) }'
 'Relationships Belongs to':
-    'prefix': 'have_many'
+    'prefix': 'belong_to'
     'body': 'it { should belong_to($1) }'
 'Validation Present':
     'prefix': 'presence'
