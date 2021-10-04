@@ -1,0 +1,30 @@
+'Have Content':
+    'prefix': 'have_content'
+    'body': 'expect(page).to have_content($1)'
+'Have Link':
+    'prefix': 'have_link'
+    'body': 'expect(page).to have_link($1)'
+'Have Button':
+    'prefix': 'have_button'
+    'body': 'expect(page).to have_button($1)'
+'Save And Open Page':
+    'prefix': 'soap'
+    'body': 'save_and_open_page'
+'Relationships Has Many':
+    'prefix': 'have_many'
+    'body': 'it { should have_many($1) }'
+'Relationships Belongs to':
+    'prefix': 'belong_to'
+    'body': 'it { should belong_to($1) }'
+'Validation Present':
+    'prefix': 'presence'
+    'body': 'it { should validate_presence_of($1) }'
+'Within Block':
+    'prefix': 'within'
+    'body': 'within "$1" do\n\t$2\nend'
+'Fill in form with Value':
+    'prefix': 'fill_in'
+    'body': 'fill_in "$1", with: "$2"'
+'Have CSS':
+    'prefix': 'css'
+    'body': 'expect(page).to have_css($1)'
