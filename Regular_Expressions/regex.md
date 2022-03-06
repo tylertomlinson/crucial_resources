@@ -1,4 +1,4 @@
-## match, capture & replace
+## Match, Capture & Replace
 
  return value when using `=~` is either the string index or `nil`
 
@@ -81,8 +81,14 @@ To match multiple characters use pattern modifiers.
 `u,e,s,n`
 
 
-##### String literals: find a particular piece of text
-##### Anchors: the beginning and the end of the string, or a word
+##### String literals
+find a particular piece of text
 
-##### Quantifiers: define how often a character is expected to occur
-##### Captures: once found, capture a particular part of the text, so we can use it
+##### Anchors
+the beginning and the end of the string, or a word
+
+##### Quantifiers
+define how often a character is expected to occur
+
+##### Captures
+once found, capture a particular part of the text, so we can use it
