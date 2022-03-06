@@ -1,10 +1,13 @@
 # GitHub Flow
 
 <p align="center">
-<img width=100% height=100% src="https://guides.github.com/activities/hello-world/branching.png">
+<img width=100% height=100% src="https://uidaholib.github.io/get-git/images/workflow.png">
 </p>
 
+<hr --- />
+
 ### Configure tooling
+
 
 ##### Show current configuration
 ```sh
@@ -32,6 +35,7 @@ $ git config --global core.editor vi
 ```
 
 
+<hr --- />
 
 ### Create
 
@@ -48,9 +52,10 @@ $ git init <directory>
 $ git clone [url]
 ```
 
-
+<hr --- />
 
 ### Local Changes
+
 
 ##### Changes in working directory
 ```sh
@@ -127,9 +132,7 @@ $ git stash apply stash@{stash_number}
 $ git stash drop
 ```
 
-
-
-
+<hr --- />
 
 ### Commit History
 
@@ -166,7 +169,7 @@ $ git reflog show
 $ git reflog delete
 ```
 
-
+<hr --- />
 
 ### Branches & Tags
 
@@ -233,7 +236,7 @@ $ git tag
 $ git tag -n
 ```
 
-
+<hr --- />
 
 ### Update & Publish
 
@@ -293,7 +296,7 @@ $ git push <remote> --delete <branch> (since Git v1.7.0)
 $ git push --tags
 ```
 
-
+<hr --- />
 
 ### Merge & Rebase
 
@@ -323,7 +326,7 @@ $ git rebase --abort
 $ git rebase --continue
 ```
 
-
+<hr --- />
 
 ### Undo
 
