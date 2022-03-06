@@ -10,6 +10,7 @@
 - [CLI](#cli)
 - [ATOM](#atom)
 - [GIT](#git)
+- [GEMS](#gems)
 - [HTML-CSS](#html-css)
 - [RAILS](#rails)
 - [RUBY](#ruby)
@@ -19,9 +20,9 @@
 </details>
 
 ## What is this?
-A growing collection of resources focusing on Ruby on Rails and aspects thereof split into various categories
+A growing collection of resources focusing on Ruby on Rails and aspects thereof split into various categories.
 
-I will do my best to maintain this repository but if you spot bad linting or a resource which isn't complete/listed, please, feel free to contribute.
+I will do my best to maintain this repository. Feel free to add anything you have found helpful or update exisiting info.
 
 ## Atom
 [**Shortcuts**](https://github.com/tylertomlinson/crucial_resources/blob/master/Atom/atom_shortcuts.md)
@@ -52,6 +53,10 @@ I will do my best to maintain this repository but if you spot bad linting or a r
     - push
   - merge and rebase
   - reset
+
+## GEMS
+  [**Source**](https://github.com/tylertomlinson/crucial_resources/blob/master/Gems/gem_commands.md)<br>
+  Commands for listing/accessing/updating/cleaning gems
 
 ## HTML-CSS
 - [**Form Attributes**](https://github.com/tylertomlinson/crucial_resources/blob/master/HTML-CSS/form_attributes.md)
