@@ -55,42 +55,42 @@ I will do my best to maintain this repository. Feel free to add anything you hav
   - reset
 
 ## GEMS
-  [**Source**](https://github.com/tylertomlinson/crucial_resources/blob/master/Gems/gem_commands.md)<br>
+  [**Source**](https://github.com/tylertomlinson/crucial_resources/blob/main/Gems/gem_commands.md)<br>
   Commands for listing/accessing/updating/cleaning gems
 
 ## HTML-CSS
-- [**Form Attributes**](https://github.com/tylertomlinson/crucial_resources/blob/master/HTML-CSS/form_attributes.md)
-- [**Input Types**](https://github.com/tylertomlinson/crucial_resources/blob/master/HTML-CSS/input_types.md)
+- [**Form Attributes**](https://github.com/tylertomlinson/crucial_resources/blob/main/HTML-CSS/form_attributes.md)
+- [**Input Types**](https://github.com/tylertomlinson/crucial_resources/blob/main/HTML-CSS/input_types.md)
 
 ## Rails
-- [**Database Management**](https://github.com/tylertomlinson/crucial_resources/blob/master/Rails/database_mgmt.md)
-- [**Generators**](https://github.com/tylertomlinson/crucial_resources/blob/master/Rails/generate.md)
-- [**Heroku**](https://github.com/tylertomlinson/crucial_resources/blob/master/Rails/heroku.md)
-- [**Migrations**](https://github.com/tylertomlinson/crucial_resources/blob/master/Rails/heroku.md)
-- [**Model-View-Controller**](https://github.com/tylertomlinson/crucial_resources/blob/master/Rails/mvc.md)
+- [**Database Management**](https://github.com/tylertomlinson/crucial_resources/blob/main/Rails/database_mgmt.md)
+- [**Generators**](https://github.com/tylertomlinson/crucial_resources/blob/main/Rails/generate.md)
+- [**Heroku**](https://github.com/tylertomlinson/crucial_resources/blob/main/Rails/heroku.md)
+- [**Migrations**](https://github.com/tylertomlinson/crucial_resources/blob/main/Rails/heroku.md)
+- [**Model-View-Controller**](https://github.com/tylertomlinson/crucial_resources/blob/main/Rails/mvc.md)
 
 ## Ruby
-- [**Setup and Rbenv**](https://github.com/tylertomlinson/crucial_resources/blob/master/Ruby/ruby_config.md)
-- [**String Methods**](https://github.com/tylertomlinson/crucial_resources/blob/master/Ruby/string_methods.md)
+- [**Setup and Rbenv**](https://github.com/tylertomlinson/crucial_resources/blob/main/Ruby/ruby_config.md)
+- [**String Methods**](https://github.com/tylertomlinson/crucial_resources/blob/main/Ruby/string_methods.md)
 
 ## Snippets
-- [**Setting up Snippets**](https://github.com/tylertomlinson/crucial_resources/blob/master/snippets/setup.md)
-- [**Pry**](https://github.com/tylertomlinson/crucial_resources/blob/master/snippets/pry.md)
-- [**Rake**](https://github.com/tylertomlinson/crucial_resources/blob/master/snippets/rake.md)
-- [**Minitest**](https://github.com/tylertomlinson/crucial_resources/blob/master/snippets/minitest.md)
-- [**Test Helper(SimpleCov)**](https://github.com/tylertomlinson/crucial_resources/blob/master/snippets/test_helper.md)
-- [**Index View(Rails)**](https://github.com/tylertomlinson/crucial_resources/blob/master/snippets/index_view.md)
+- [**Setting up Snippets**](https://github.com/tylertomlinson/crucial_resources/blob/main/snippets/setup.md)
+- [**Pry**](https://github.com/tylertomlinson/crucial_resources/blob/main/snippets/pry.md)
+- [**Rake**](https://github.com/tylertomlinson/crucial_resources/blob/main/snippets/rake.md)
+- [**Minitest**](https://github.com/tylertomlinson/crucial_resources/blob/main/snippets/minitest.md)
+- [**Test Helper(SimpleCov)**](https://github.com/tylertomlinson/crucial_resources/blob/main/snippets/test_helper.md)
+- [**Index View(Rails)**](https://github.com/tylertomlinson/crucial_resources/blob/main/snippets/index_view.md)
 
 ## SQL
-- [**Overview**](https://github.com/tylertomlinson/crucial_resources/blob/master/SQL/sql.md)
-- [**Aggregates**](https://github.com/tylertomlinson/crucial_resources/blob/master/SQL/sql_aggregates.md)
-- [**Basics**](https://github.com/tylertomlinson/crucial_resources/blob/master/SQL/sql_basics.md)
-- [**Joins**](https://github.com/tylertomlinson/crucial_resources/blob/master/SQL/sql_joins.md)
+- [**Overview**](https://github.com/tylertomlinson/crucial_resources/blob/main/SQL/sql.md)
+- [**Aggregates**](https://github.com/tylertomlinson/crucial_resources/blob/main/SQL/sql_aggregates.md)
+- [**Basics**](https://github.com/tylertomlinson/crucial_resources/blob/main/SQL/sql_basics.md)
+- [**Joins**](https://github.com/tylertomlinson/crucial_resources/blob/main/SQL/sql_joins.md)
 
 ## Testing-Debugging
-- [**Pry**](https://github.com/tylertomlinson/crucial_resources/blob/master/Testing-Debugging/pry.md)
-- [**Capybara**](https://github.com/tylertomlinson/crucial_resources/blob/master/Testing-Debugging/capybara.md)
-- [**Shoulda Matchers**](https://github.com/tylertomlinson/crucial_resources/blob/master/Testing-Debugging/shoulda_matchers.md)
+- [**Pry**](https://github.com/tylertomlinson/crucial_resources/blob/main/Testing-Debugging/pry.md)
+- [**Capybara**](https://github.com/tylertomlinson/crucial_resources/blob/main/Testing-Debugging/capybara.md)
+- [**Shoulda Matchers**](https://github.com/tylertomlinson/crucial_resources/blob/main/Testing-Debugging/shoulda_matchers.md)
 
 ## Contributing
 - Fork repo (https://github.com/tylertomlinson/crucial_resources)
