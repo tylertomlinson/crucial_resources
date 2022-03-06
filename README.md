@@ -72,6 +72,10 @@ I will do my best to maintain this repository. Feel free to add anything you hav
 ## Ruby
 - [**Setup and Rbenv**](https://github.com/tylertomlinson/crucial_resources/blob/main/Ruby/rbenv/config_commands.md)
 - [**String Methods**](https://github.com/tylertomlinson/crucial_resources/blob/main/Ruby/string_methods.md)
+- [**Arrays**](https://github.com/tylertomlinson/crucial_resources/blob/main/Ruby/Arrays)
+
+## Regular Expressions
+- [**Match/Capture/Replace**](https://github.com/tylertomlinson/crucial_resources/blob/main/Regular_Expressions/regex.md)
 
 ## Snippets
 - [**Setting up Snippets**](https://github.com/tylertomlinson/crucial_resources/blob/main/snippets/setup.md)
