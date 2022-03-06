@@ -70,7 +70,7 @@ I will do my best to maintain this repository. Feel free to add anything you hav
 - [**Model-View-Controller**](https://github.com/tylertomlinson/crucial_resources/blob/main/Rails/mvc.md)
 
 ## Ruby
-- [**Setup and Rbenv**](https://github.com/tylertomlinson/crucial_resources/blob/main/Ruby/ruby_config.md)
+- [**Setup and Rbenv**](https://github.com/tylertomlinson/crucial_resources/blob/main/Ruby/rbenv/config_commands.md)
 - [**String Methods**](https://github.com/tylertomlinson/crucial_resources/blob/main/Ruby/string_methods.md)
 
 ## Snippets
